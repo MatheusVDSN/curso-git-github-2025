@@ -2,3 +2,6 @@ Esse arquivo contém informações adicionais para Branch
 
 - Primeiro passo
 - Segundo passo
+
+Comandos Mais genéricos
+Comandos estranhos
