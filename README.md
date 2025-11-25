@@ -20,3 +20,11 @@
 
 ### É grátis!
 
+----------
+
+### Pessoas participantes:
+
+### \- Matheus
+### \- Téo Calvo
+
+
