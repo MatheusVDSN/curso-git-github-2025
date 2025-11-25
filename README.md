@@ -2,15 +2,15 @@
 
 
 
-### Um Curso para iniciantes aprenderem a
+### Um Curso para iniciantes aprenderem a 
 
-### trabalhar com versionamento de código
+### trabalhar com versionamento de código 
 
 ### e repositórios remotos com GitHub.
 
 
 
-### Além disso, vamos trabalhar com GitFlow
+### Além disso, vamos trabalhar com GitFlow 
 
 ### ao final do curso e Visual Studio Code.
 
@@ -20,15 +20,11 @@
 
 ### É grátis!
 
+----------
 
+### Pessoas participantes:
 
-#### ----------
+### \- Matheus
+### \- Téo Calvo
 
-#### Pessoas participantes:
-
-
-
-#### \- Matheus
-
-#### \- Téo Calvo
 
