@@ -7,7 +7,8 @@ e repositórios remotos com GitHub.
 Além disso, vamos trabalhar com GitFlow
 ao final do curso e Visual Studio Code.
 Confira tudo no canal do Téo Calvo.
-É grátis!
+É grátis! segue o link:
+[Curso Git 2025](https://youtube.com/@teomewhy)
 
 Fluxo de trabalho Git Local
 
